@@ -10,6 +10,10 @@ https://pubmed.ncbi.nlm.nih.gov/28223187/#:~:text=Favorites-,Abstract,and%20a%20
 ### Presentation Link
 https://docs.google.com/presentation/d/1cP-nDOe79ci2ySgskidZrjB0JQo-mHwHrcMaVQJ2Dl4/edit?usp=sharing
 
+### How can I run the notebook?
+1. Save the complete DeepNAT-2D folder in your google drive. 
+2. Make a copy of the Colab Notebook and there you go!
+
 ### References
 - Wachinger C, Reuter M, Klein T. DeepNAT: Deep convolutional neural network for segmenting neuroanatomy. Neuroimage. 2018;170:434‐445. doi:10.1016/j.neuroimage.2017.02.035
 
