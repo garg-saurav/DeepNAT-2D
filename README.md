@@ -11,7 +11,7 @@ https://pubmed.ncbi.nlm.nih.gov/28223187/#:~:text=Favorites-,Abstract,and%20a%20
 https://docs.google.com/presentation/d/1cP-nDOe79ci2ySgskidZrjB0JQo-mHwHrcMaVQJ2Dl4/edit?usp=sharing
 
 ### How can I run the notebook?
-1. Save the complete DeepNAT-2D folder in your google drive. 
+1. Save the complete [DeepNAT-2D](https://drive.google.com/drive/folders/1fjKll_nglfSf7pCRVgIgYVjYsgnvfUjJ?usp=sharing) folder in your google drive. 
 2. Make a copy of the Colab Notebook and there you go!
 
 ### References
