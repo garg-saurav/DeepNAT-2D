@@ -2,13 +2,13 @@
 Tensorflow Implementation of 2D version of "Wachinger C, Reuter M, Klein T. DeepNAT: Deep convolutional neural network for segmenting neuroanatomy"
 
 ### Google-Colab Link
-https://colab.research.google.com/drive/1jOd3XYzWK744zV479d4od4fQrddjtjH7?usp=sharing
+[https://colab.research.google.com/drive/1jOd3XYzWK744zV479d4od4fQrddjtjH7?usp=sharing](https://colab.research.google.com/drive/1jOd3XYzWK744zV479d4od4fQrddjtjH7?usp=sharing)
 
 ### Research Paper Link
-https://pubmed.ncbi.nlm.nih.gov/28223187/#:~:text=Favorites-,Abstract,and%20a%20multi%2Dclass%20classification.
+[DeepNAT: Deep Convolutional Neural Network for Segmenting Neuroanatomy](https://pubmed.ncbi.nlm.nih.gov/28223187/#:~:text=Favorites-,Abstract,and%20a%20multi%2Dclass%20classification.)
 
 ### Presentation Link
-https://docs.google.com/presentation/d/1cP-nDOe79ci2ySgskidZrjB0JQo-mHwHrcMaVQJ2Dl4/edit?usp=sharing
+[https://docs.google.com/presentation/d/1cP-nDOe79ci2ySgskidZrjB0JQo-mHwHrcMaVQJ2Dl4/edit?usp=sharing](https://docs.google.com/presentation/d/1cP-nDOe79ci2ySgskidZrjB0JQo-mHwHrcMaVQJ2Dl4/edit?usp=sharing)
 
 ### How can I run the notebook?
 1. Save the complete [DeepNAT-2D](https://drive.google.com/drive/folders/1fjKll_nglfSf7pCRVgIgYVjYsgnvfUjJ?usp=sharing) folder in your google drive. 
